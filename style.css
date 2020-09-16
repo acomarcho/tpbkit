@@ -1,0 +1,19 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.logoitb {
+	width: 250px;
+	height: 250px;
+	margin: 20px;
+}
+
+.full-width {
+  /* Full width */
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
