@@ -9,11 +9,9 @@ html {
 }
 
 .full-width {
-  /* Full width */
-  width: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: cover;
-  background-repeat: no-repeat;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
   background-size: cover;
+  -o-background-size: cover;
  }
